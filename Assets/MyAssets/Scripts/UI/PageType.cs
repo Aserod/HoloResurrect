@@ -14,5 +14,7 @@ public enum PageType
     LookAtDummy,
     PlaceHands,
     Instructions,
-    CarCrash
+    CarCrash,
+    CPR,
+    Final
 }

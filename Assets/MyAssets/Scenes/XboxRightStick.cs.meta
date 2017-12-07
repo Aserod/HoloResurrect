@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f9355c76381bf484bbed90c13583f695
+timeCreated: 1512601789
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bpmText: {fileID: 114415948235201432, guid: 0891ac91f4d9ac94aa215749fce5da07,
+      type: 2}
+  - prompt: {fileID: 114606611813201348, guid: e7fef65a6c1e4cf4db917d3893116677, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
